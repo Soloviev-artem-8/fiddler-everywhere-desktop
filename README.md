@@ -1,0 +1,3 @@
+# Fiddler Everywhere
+
+Utility scaffolding.
